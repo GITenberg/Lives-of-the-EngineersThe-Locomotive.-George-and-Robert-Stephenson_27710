@@ -1,0 +1,32 @@
+_repo: Lives-of-the-EngineersThe-Locomotive.-George-and-Robert-Stephenson_27710
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smiles, Samuel
+    birthdate: 1812
+    deathdate: 1904
+    gutenberg_agent_id: '224'
+    url: http://www.gutenberg.org/2009/agents/224
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
+description: Samuel Smiles's Lives of the Engineers looks at the history of roads,
+  and the lives of John Metcalfe and Thomas Telford.
+gutenberg_issued: '2009-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads -- Great Britain -- History'
+- !lcc 'TF'
+- !lcsh 'Stephenson, George, 1781-1848'
+- !lcsh 'Stephenson, Robert, 1803-1859'
+title: 'Lives of the Engineers
+
+  The Locomotive.  George and Robert Stephenson'
+url: http://www.gutenberg.org/ebooks/27710
